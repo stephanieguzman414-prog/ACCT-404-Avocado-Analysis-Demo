@@ -1,2 +1,2 @@
 # ACCT-404-Avocado-Analysis-Demo
-Chart Analysis 
+Analyzing data using Python visualization in Jupyter Notebook. 
